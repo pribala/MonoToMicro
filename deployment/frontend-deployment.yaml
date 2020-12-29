@@ -16,7 +16,7 @@ spec:
         api: external
     spec:
       containers:
-      - image: pribala/udagram-frontend-v1:latest
+      - image: pribala/udagram-frontend-v2:latest
         name: frontend 
         imagePullPolicy: Always  
         ports:
