@@ -280,7 +280,7 @@
 							"raw": "{\n    \"password\": \"fancypass\"\n}"
 						},
 						"url": {
-							"raw": "{{host}}/api/v0/users/auth",
+							"raw": "{{host}}/",
 							"host": [
 								"{{host}}"
 							],

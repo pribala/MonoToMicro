@@ -5,8 +5,8 @@ data:
   AWS_PROFILE: YWRtaW4=
   AWS_REGION: dXMtZWFzdC0x
   JWT_SECRET: aGVsbG8=
-  POSTGRES_DB: cG9zdGdyZXM=
-  POSTGRES_HOST:  dWRhZ3JhbS1taWNyby5jMnc1cmVieW5weTQudXMtZWFzdC0xLnJkcy5hbWF6b25hd3MuY29t
-  URL: http://localhost:8100
+  POSTGRES_DB: postgres
+  POSTGRES_HOST: udagram-micro.c2w5rebynpy4.us-east-1.rds.amazonaws.com
+  URL: http://ada23369f71d94b5096fa204d841fc4a-1255206426.us-east-1.elb.amazonaws.com:8100/
 metadata:
   name: env-config
